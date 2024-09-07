@@ -1,0 +1,5 @@
+php fibonacci.php
+php count_letter_a.php
+php soma.php
+php sequences.php
+php interruptores.php
